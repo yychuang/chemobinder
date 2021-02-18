@@ -6,5 +6,7 @@ dependencies:
         - seaborn
         - matplotlib
         - rdkit
-        - py3dmol
+        - pip
+        - pip:
+          - -r file:requirements.txt
            
