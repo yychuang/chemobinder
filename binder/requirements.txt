@@ -1,6 +1,0 @@
-numpy
-pandas
-matplotlib
-py3dmol
-#ipywidgets
-#jupyter_contrib_nbextensions
