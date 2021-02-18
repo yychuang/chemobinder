@@ -7,5 +7,6 @@ dependencies:
         - matplotlib
         - rdkit
         - pip
-        - pip :
-                - py3Dmol
+        - pip:
+           - py3dmol
+           
